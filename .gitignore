@@ -1,0 +1,28 @@
+# Ignore everything except code directories
+/*
+!/code_latex
+!/code_nlogit
+!/code_R
+!/Do_Files
+!README.md
+!.gitignore
+
+# Ignore all files with these extensions
+*.RData
+*.csv
+*.dta
+*.dat
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.pdf
+*.png
+*.wmf
+*.zip
+
+# Ignore these sub-directories, whereever they are
+_Colleagues_Projects
+_Project_Archive
